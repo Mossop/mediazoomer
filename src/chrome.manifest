@@ -1,0 +1,4 @@
+content			mediazoomer					      ${extension.chromebase}/content/
+skin        mediazoomer  classic/1.0  ${extension.chromebase}/skin/
+
+overlay			chrome://browser/content/pageInfo.xul	chrome://mediazoomer/content/pageinfo.xul
